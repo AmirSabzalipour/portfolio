@@ -1,7 +1,7 @@
 ---
 layout: page
-title: about
-permalink: /about/
+title: Skills
+permalink: /Skills/
 feature-img: "assets/img/pexels/travel.jpeg"
 tags: [Page]
 ---
