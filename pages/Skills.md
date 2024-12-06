@@ -1,9 +1,10 @@
 ---
 layout: page
-title: About
+title: My Skills
 permalink: /about/
 feature-img: "assets/img/pexels/travel.jpeg"
 tags: [Page]
+position : 2
 ---
 
 Type on Strap is based on Type Theme, a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
