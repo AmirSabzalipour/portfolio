@@ -1,10 +1,8 @@
 ---
 layout: page
-title: My Skills
-permalink: /Skills/
+title: about
+permalink: /about/
 feature-img: "assets/img/pexels/travel.jpeg"
-excluded: true
-position: 2
 tags: [Page]
 ---
 
