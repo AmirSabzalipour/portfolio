@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Sample post
+published: false
 tags: [A Tag, Katex]
 excerpt_separator: <!--more-->
-published: false
 ---
 
 Consectetur adipiscing elit. Donec a diam lectus. Sed sit amet ipsum mauris. Maecenas congue ligula ac quam viverra nec consectetur ante hendrerit. Donec et mollis dolor. 
