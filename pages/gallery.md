@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Gallery
+title: Work Experiences
 subtitle: From the pexels folder
-permalink: /gallery/
+permalink: /Work Experiences/
 gallery_path: "assets/img/pexels"
 excluded: true
 position: 3
