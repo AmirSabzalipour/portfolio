@@ -59,10 +59,17 @@ tags: [Page]
         margin-left: 50px;
     }
 
+  
     .job-description ul {
         margin: 0;
-        padding-left: 30px; /* Slight indentation for bullets */
-        list-style: circle;
+        padding-left: 20px; /* Slight indentation for bullets */
+        list-style-type: square; /* Use square bullets */
+    }
+
+    /* Styling the list bullets (squares) */
+    .job-description ul li::marker {
+        color: black; /* Change the bullet color to black */
+        font-weight: bold; /* Make the bullet bold */
     }
 
     .job-description ul li {
