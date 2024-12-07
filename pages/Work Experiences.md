@@ -27,10 +27,15 @@ tags: [Page]
         font-size: 1em;
     }
 
+    /* Add indentation for the content below the section title */
+    .experience-content {
+        margin-left: 30px; /* Indentation for job content */
+    }
+
     /* Styling for job titles */
     .job-title {
         font-weight: bold;
-        color: #a2ad9c; /* Royal Blue */
+        color: #0492C2; /* Royal Blue */
         font-size: .95em; /* Slightly smaller but still noticeable */
         margin-bottom: 10px; /* Increase space below title */
     }
@@ -44,6 +49,10 @@ tags: [Page]
     }
 
     /* Styling for job descriptions */
+    .job-description {
+        margin-top: 15px; /* Space between details and description */
+    }
+
     .job-description ul {
         margin: 0;
         padding-left: 20px; /* Slight indentation for bullets */
