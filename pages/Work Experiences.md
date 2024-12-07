@@ -30,8 +30,8 @@ tags: [Page]
         margin: 0 auto 20px;
         padding: 0; /* No padding for clean look */
         font-weight: normal;
-        color: lapislazuli;
-        font-size: 1.1em;
+        color: rgba(150,170,150,1);
+        font-size: 1.2em;
         margin-left: 30px;
         margin-top: 40px;
         margin-bottom: 30px;
