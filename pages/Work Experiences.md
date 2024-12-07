@@ -57,7 +57,7 @@ tags: [Page]
         font-weight: normal;
         color: black; /* Dark gray for better readability */
         margin-bottom: 25px; /* Add space below details */
-         margin-left: 40px;
+         margin-left: 30px;
     }
 
     /* Styling for job descriptions */
@@ -102,7 +102,7 @@ tags: [Page]
 <div class="experience-section">
     <div>
         <div class="job-title">Postdoctoral Researcher </div>
-        <div class="job-details"> University of Antwerp, Antwerp, Belgium |10.2021 – 06.2023| </div>
+        <div class="job-details"> University of Antwerp, Antwerp, Belgium | 10.2021 – 06.2023 | </div>
         <div class="job-description">
             <ul>
                 <li>Python-based modeling and simulation of electrical resistivity at micron and nanometer scales.</li>
@@ -115,7 +115,7 @@ tags: [Page]
 
     <div>
         <div class="job-title">Doctoral Researcher</div>
-        <div class="job-details"> University of Antwerp, Antwerp, Belgium |03.2017 – 10.2021 | </div>
+        <div class="job-details"> University of Antwerp, Antwerp, Belgium | 03.2017 – 10.2021 | </div>
         <div class="job-description">
             <ul>
                 <li>Mathematical modeling and computer simulation of disordered nanomaterials.</li>
