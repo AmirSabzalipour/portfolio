@@ -35,8 +35,8 @@ tags: [Page]
 
     /* Styling for job titles */
     .job-title {
-        font-weight: noraml;
-        color: #0492C2; /* Royal Blue */
+        font-weight: bold;
+        color: black; /* Royal Blue */
         font-size: .8em; /* Slightly smaller but still noticeable */
         margin-left: 30px; /* Increase space below title */
         margin-bottom: 5px;
