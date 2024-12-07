@@ -63,12 +63,12 @@ tags: [Page]
     .job-description ul {
         margin: 0;
         padding-left: 20px; /* Slight indentation for bullets */
-        list-style-type: square; /* Use square bullets */
+        list-style-type: ⭕; /* Use square bullets */
     }
 
     /* Styling the list bullets (squares) */
     .job-description ul li::marker {
-        color: black; /* Change the bullet color to black */
+        color: gray; /* Change the bullet color to black */
         font-weight: bold; /* Make the bullet bold */
     }
 
