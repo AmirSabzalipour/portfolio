@@ -11,7 +11,7 @@ tags: [Page]
 
 <style>
     body {
-    background-color: #f4f4f4; /* Light gray background color */
+    background-color: #cdd2ca; /* Light gray background color */
     margin: 0; /* Remove default margins */
     padding: 0; /* Remove default padding */
 }
@@ -69,7 +69,7 @@ tags: [Page]
     .job-description ul {
         margin: 0;
         padding-left: 20px; /* Slight indentation for bullets */
-        list-style-type: ⭕; /* Use square bullets */
+        list-style-type: circle; /* Use square bullets */
     }
 
     /* Styling the list bullets (squares) */
