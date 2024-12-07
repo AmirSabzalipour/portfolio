@@ -2,6 +2,7 @@
 layout: page
 title: Work Experiences
 subtitle: 
+feature-img: "assets/img/pexels/computer.jpeg"
 permalink: /Work Experiences/
 excluded: true
 position: 3
