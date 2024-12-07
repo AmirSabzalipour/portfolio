@@ -2,7 +2,7 @@
 layout: page
 title: Skills
 permalink: /Skills/
-feature-img: "assets/img/pexels/travel.jpeg"
+feature-img: "assets/img/pexels/header.png"
 tags: [Page]
 ---
 
