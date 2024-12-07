@@ -37,7 +37,7 @@ tags: [Page]
         font-weight: bold;
         color: #0492C2; /* Royal Blue */
         font-size: .95em; /* Slightly smaller but still noticeable */
-        margin-bottom: 10px; /* Increase space below title */
+        margin-left: 20px; /* Increase space below title */
     }
 
     /* Styling for job details (location and date) */
