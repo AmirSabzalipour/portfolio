@@ -12,7 +12,7 @@ tags: [Page]
   body {
     margin: 0;
     padding: 10px;
-    background-color: #cdd2ca;
+    background-color: #e0e3dc;
     background-image: url('assets/img/header/education.jpg');
     background-repeat: no-repeat;
     background-position: center center;
