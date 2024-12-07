@@ -30,7 +30,7 @@ tags: [Page]
     /* Styling for job titles */
     .job-title {
         font-weight: bold;
-        color: #0492C2; /* Royal Blue */
+        color: #a2ad9c; /* Royal Blue */
         font-size: .95em; /* Slightly smaller but still noticeable */
         margin-bottom: 10px; /* Increase space below title */
     }
