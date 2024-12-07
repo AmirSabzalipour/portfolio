@@ -45,10 +45,11 @@ tags: [Page]
     /* Styling for job titles */
     .job-title {
         font-weight: bold;
-        color: black; /* Royal Blue */
+        color: rgba(46, 89, 132,1); /* Royal Blue */
         font-size: 1em; /* Slightly smaller but still noticeable */
         margin-left: 30px; /* Increase space below title */
         margin-bottom: 8px;
+        
     }
 
     /* Styling for job details (location and date) */
