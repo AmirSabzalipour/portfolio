@@ -23,9 +23,9 @@ tags: [Page]
     .highlight {
         max-width: 800px;
         margin: 0 auto 20px;
-        background-color: #f0f8ff;
+        background-color: white;
         padding: 10px;
-        border-left: 4px solid #007bff;
+        border-left: 4px solid white;
         font-weight: normal;
         color: #333;
         font-size: .9 em;
