@@ -10,6 +10,12 @@ tags: [Page]
 ---
 
 <style>
+    body {
+    background-color: #f4f4f4; /* Light gray background color */
+    margin: 0; /* Remove default margins */
+    padding: 0; /* Remove default padding */
+}
+
     /* General container for better alignment and formatting */
     .experience-section {
         max-width: 900px;
