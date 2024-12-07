@@ -3,7 +3,7 @@ layout: page
 title: Work Experiences
 subtitle: 
 permalink: /Work Experiences/
-gallery_path: "assets/img/pexels"
+gallery_path:"assets/img/pexels/tree.jpg"
 excluded: true
 position: 3
 tags: [Page]
