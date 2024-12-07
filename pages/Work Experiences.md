@@ -53,9 +53,9 @@ tags: [Page]
 
     /* Styling for job details (location and date) */
     .job-details {
-        font-size: 1rem; /* Clear and noticeable */
+        font-size: .8em; /* Clear and noticeable */
         font-weight: normal;
-        color: #333; /* Dark gray for better readability */
+        color: black; /* Dark gray for better readability */
         margin-bottom: 25px; /* Add space below details */
          margin-left: 40px;
     }
@@ -102,7 +102,7 @@ tags: [Page]
 <div class="experience-section">
     <div>
         <div class="job-title">Postdoctoral Researcher </div>
-        <div class="job-details">, <em>University of Antwerp</em>, Antwerp, Belgium |10.2021 – 06.2023| </div>
+        <div class="job-details"> University of Antwerp, Antwerp, Belgium |10.2021 – 06.2023| </div>
         <div class="job-description">
             <ul>
                 <li>Python-based modeling and simulation of electrical resistivity at micron and nanometer scales.</li>
@@ -114,8 +114,8 @@ tags: [Page]
     <hr>
 
     <div>
-        <div class="job-title">Doctoral Researcher, <em>University of Antwerp</em></div>
-        <div class="job-details">03.2017 – 10.2021 | Antwerp, Belgium</div>
+        <div class="job-title">Doctoral Researcher</div>
+        <div class="job-details"> University of Antwerp, Antwerp, Belgium |03.2017 – 10.2021 | </div>
         <div class="job-description">
             <ul>
                 <li>Mathematical modeling and computer simulation of disordered nanomaterials.</li>
@@ -129,8 +129,8 @@ tags: [Page]
     <hr>
 
     <div>
-        <div class="job-title">Visiting Researcher, <em>Institute for Research in Fundamental Sciences</em></div>
-        <div class="job-details">02.2016 – 02.2017 | Iran</div>
+        <div class="job-title">Visiting Researcher</div>
+        <div class="job-details">Institute for Research in Fundamental Sciences, Tehran, Iran | 02.2016 – 02.2017 | </div>
         <div class="job-description">
             <ul>
                 <li>Statistical and dynamical study of anomalous electrical properties of semiconductors under thermodynamic fluctuation and with magnetic impurities.</li>
@@ -141,8 +141,8 @@ tags: [Page]
     <hr>
 
     <div>
-        <div class="job-title">Visiting Researcher, <em>Uppsala University</em></div>
-        <div class="job-details">10.2015 – 01.2016 | Uppsala, Sweden</div>
+        <div class="job-title">Visiting Researcher</div>
+        <div class="job-details"> Uppsala University, Uppsala, Sweden | 10.2015 – 01.2016 | </div>
         <div class="job-description">
             <ul>
                 <li>Nanoscale simulations of 2D materials using Quantum ESPRESSO package.</li>
@@ -153,8 +153,8 @@ tags: [Page]
     <hr>
 
     <div>
-        <div class="job-title">Research Assistance, <em>University of Tehran</em></div>
-        <div class="job-details">05.2008 – 08.2009 | Tehran, Iran</div>
+        <div class="job-title">Research Assistance</div>
+        <div class="job-details"> University of Tehran, Tehran, Iran | 05.2008 – 08.2009 | </div>
         <div class="job-description">
             <ul>
                 <li>Image processing of interferometric patterns for thin film surface topography.</li>
