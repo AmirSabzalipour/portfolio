@@ -34,11 +34,11 @@ tags: [Page]
 
     /* Styling for job titles */
     .job-title {
-        font-weight: bold;
+        font-weight: noraml;
         color: #0492C2; /* Royal Blue */
-        font-size: .95em; /* Slightly smaller but still noticeable */
+        font-size: .8em; /* Slightly smaller but still noticeable */
         margin-left: 30px; /* Increase space below title */
-        margin-bottom: 40px;
+        margin-bottom: 20px;
     }
 
     /* Styling for job details (location and date) */
@@ -46,7 +46,7 @@ tags: [Page]
         font-size: 1rem; /* Clear and noticeable */
         font-weight: normal;
         color: #333; /* Dark gray for better readability */
-        margin-bottom: 30px; /* Add space below details */
+        margin-bottom: 10px; /* Add space below details */
          margin-left: 40px;
     }
 
