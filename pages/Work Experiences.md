@@ -48,7 +48,7 @@ tags: [Page]
         font-size: 1rem; /* Clear and noticeable */
         font-weight: normal;
         color: #333; /* Dark gray for better readability */
-        margin-bottom: 10px; /* Add space below details */
+        margin-bottom: 25px; /* Add space below details */
          margin-left: 40px;
     }
 
