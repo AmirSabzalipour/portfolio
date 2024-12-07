@@ -15,7 +15,7 @@ tags: [Page]
         margin: 0 auto;
         background: #ffffff;
         border: 1px solid #dddddd;
-        border-radius: 8px;
+        border-radius: 20px;
         padding: 20px;
         box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
         font-family: Arial, sans-serif;
