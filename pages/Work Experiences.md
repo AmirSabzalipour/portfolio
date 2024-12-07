@@ -14,7 +14,7 @@ tags: [Page]
         max-width: 900px;
         margin: 0 auto; /* Center align the section */
         padding: 10px 0; /* Add vertical spacing */
-        font-family: Arial, sans-serif;
+        font-family: 'Avenir Next LT Pro', sans-serif;
     }
 
     /* Highlight section with no box */
