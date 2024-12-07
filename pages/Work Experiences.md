@@ -11,7 +11,7 @@ tags: [Page]
 
 <style>
     body {
-    background-color: #cdd2ca; /* Light gray background color */
+    background-color: #e1e5de; /* Light gray background color */
     margin: 0; /* Remove default margins */
     padding: 0; /* Remove default padding */
 }
@@ -33,6 +33,7 @@ tags: [Page]
         color: #0492C2;;
         font-size: 1em;
         margin-left: 30px;
+        margin-top: 40px;
         margin-bottom: 30px;
     }
 
@@ -45,9 +46,9 @@ tags: [Page]
     .job-title {
         font-weight: bold;
         color: black; /* Royal Blue */
-        font-size: .8em; /* Slightly smaller but still noticeable */
+        font-size: 1em; /* Slightly smaller but still noticeable */
         margin-left: 30px; /* Increase space below title */
-        margin-bottom: 5px;
+        margin-bottom: 8px;
     }
 
     /* Styling for job details (location and date) */
