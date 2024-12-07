@@ -9,59 +9,59 @@ tags: [Page]
 ---
 
 <style>
+    /* General container for better alignment and formatting */
     .experience-section {
         max-width: 800px;
-        margin: 0 auto;
-        background: #ffffff;
-        border: 1px solid #dddddd;
-        border-radius: 20px;
-        padding: 20px;
-        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        margin: 0 auto; /* Center align the section */
+        padding: 10px 0; /* Add vertical spacing */
         font-family: Arial, sans-serif;
     }
 
+    /* Highlight section with no box */
     .highlight {
         max-width: 800px;
         margin: 0 auto 20px;
-        background-color: white;
-        padding: 10px;
-        border-left: 4px solid white;
+        padding: 0; /* No padding for clean look */
         font-weight: normal;
         color: #333;
-        font-size: .9 em;
+        font-size: 1em;
     }
 
+    /* Styling for job titles */
     .job-title {
         font-weight: bold;
         color: #4169e1; /* Royal Blue */
-        font-size: 1em; /* Reduced font size */
-        margin-bottom: 5px;
+        font-size: 1.1em; /* Slightly smaller but still noticeable */
+        margin-bottom: 10px; /* Increase space below title */
     }
 
+    /* Styling for job details (location and date) */
     .job-details {
-        font-size: .8em; /* Increased font size for location and date */
+        font-size: 1rem; /* Clear and noticeable */
         font-weight: bold;
-        color: #333;
-        margin-bottom: 10px;
+        color: #333; /* Dark gray for better readability */
+        margin-bottom: 15px; /* Add space below details */
     }
 
+    /* Styling for job descriptions */
     .job-description ul {
         margin: 0;
-        padding-left: 20px;
+        padding-left: 20px; /* Slight indentation for bullets */
         list-style: circle;
     }
 
     .job-description ul li {
-        margin-bottom: 8px;
-        font-size: .6em;
+        margin-bottom: 10px; /* Increase spacing between bullet points */
+        font-size: 0.9em; /* Readable size */
+        color: #555; /* Slightly lighter gray for description text */
     }
 
+    /* Divider styling */
     hr {
         border: 0;
         border-top: 1px solid #ddd;
-        margin: 20px 0;
+        margin: 30px 0; /* Add more space between sections */
     }
-   
 </style>
 
 <!-- Highlighted Title OUTSIDE of experience-section -->
