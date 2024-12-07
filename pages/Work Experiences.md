@@ -64,6 +64,7 @@ tags: [Page]
     .job-description {
         margin-top: 15px; /* Space between details and description */
         margin-left: 50px;
+         font-family:'Garamond';
     }
 
   
