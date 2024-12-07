@@ -26,9 +26,9 @@ tags: [Page]
         background-color: #f0f8ff;
         padding: 10px;
         border-left: 4px solid #007bff;
-        font-weight: bold;
+        font-weight: normal;
         color: #333;
-        font-size: 1.1em;
+        font-size: .9 em;
     }
 
     .job-title {
@@ -39,7 +39,7 @@ tags: [Page]
     }
 
     .job-details {
-        font-size: 1rem; /* Increased font size for location and date */
+        font-size: .8em; /* Increased font size for location and date */
         font-weight: bold;
         color: #333;
         margin-bottom: 10px;
@@ -53,6 +53,7 @@ tags: [Page]
 
     .job-description ul li {
         margin-bottom: 8px;
+        font-size: .6em;
     }
 
     hr {
