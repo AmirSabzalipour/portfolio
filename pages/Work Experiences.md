@@ -11,7 +11,7 @@ tags: [Page]
 <style>
     /* General container for better alignment and formatting */
     .experience-section {
-        max-width: 800px;
+        max-width: 900px;
         margin: 0 auto; /* Center align the section */
         padding: 10px 0; /* Add vertical spacing */
         font-family: Arial, sans-serif;
