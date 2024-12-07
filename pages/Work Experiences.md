@@ -38,14 +38,15 @@ tags: [Page]
         color: #0492C2; /* Royal Blue */
         font-size: .95em; /* Slightly smaller but still noticeable */
         margin-left: 30px; /* Increase space below title */
+        margin-bottom: 40px;
     }
 
     /* Styling for job details (location and date) */
     .job-details {
         font-size: 1rem; /* Clear and noticeable */
-        font-weight: bold;
+        font-weight: normal;
         color: #333; /* Dark gray for better readability */
-        margin-bottom: 20px; /* Add space below details */
+        margin-bottom: 30px; /* Add space below details */
          margin-left: 40px;
     }
 
