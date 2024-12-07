@@ -64,7 +64,6 @@ tags: [Page]
     .job-description {
         margin-top: 15px; /* Space between details and description */
         margin-left: 50px;
-         font-family: Tahoma, Arial, sans-serif; 
     }
 
   
@@ -84,7 +83,7 @@ tags: [Page]
         margin-bottom: 8px; /* Increase spacing between bullet points */
         font-size: 0.9em; /* Readable size */
         color: #555; /* Slightly lighter gray for description text */
-        line-height: 1; 
+        line-height: 1.1; 
     }
 
     /* Divider styling */
@@ -102,8 +101,8 @@ tags: [Page]
 
 <div class="experience-section">
     <div>
-        <div class="job-title">Postdoctoral Researcher, <em>University of Antwerp</em></div>
-        <div class="job-details">10.2021 – 06.2023 | Antwerp, Belgium</div>
+        <div class="job-title">Postdoctoral Researcher </div>
+        <div class="job-details">, <em>University of Antwerp</em>, Antwerp, Belgium |10.2021 – 06.2023| </div>
         <div class="job-description">
             <ul>
                 <li>Python-based modeling and simulation of electrical resistivity at micron and nanometer scales.</li>
