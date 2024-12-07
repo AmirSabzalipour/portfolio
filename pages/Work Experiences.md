@@ -19,12 +19,13 @@ tags: [Page]
 
     /* Highlight section with no box */
     .highlight {
-        max-width: 800px;
+        max-width: 900px;
         margin: 0 auto 20px;
         padding: 0; /* No padding for clean look */
         font-weight: normal;
-        color: #333;
+        color: #0492C2;;
         font-size: 1em;
+        margin-left: 30px;
     }
 
     /* Add indentation for the content below the section title */
