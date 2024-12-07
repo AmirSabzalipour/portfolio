@@ -31,7 +31,7 @@ tags: [Page]
         padding: 0; /* No padding for clean look */
         font-weight: normal;
         color: lapislazuli;
-        font-size: 1em;
+        font-size: 1.1em;
         margin-left: 30px;
         margin-top: 40px;
         margin-bottom: 30px;
@@ -115,7 +115,7 @@ tags: [Page]
 
     <div>
         <div class="job-title">Doctoral Researcher</div>
-        <div class="job-details"> University of Antwerp, Antwerp, Belgium | 03.2017 – 10.2021 | </div>
+        <div class="job-details"> University of Antwerp, <em>Antwerp, Belgium </em> | 03.2017 – 10.2021 | </div>
         <div class="job-description">
             <ul>
                 <li>Mathematical modeling and computer simulation of disordered nanomaterials.</li>
@@ -130,7 +130,7 @@ tags: [Page]
 
     <div>
         <div class="job-title">Visiting Researcher</div>
-        <div class="job-details">Institute for Research in Fundamental Sciences, Tehran, Iran | 02.2016 – 02.2017 | </div>
+        <div class="job-details">Institute for Research in Fundamental Sciences, <em>Tehran, Iran </em> | 02.2016 – 02.2017 | </div>
         <div class="job-description">
             <ul>
                 <li>Statistical and dynamical study of anomalous electrical properties of semiconductors under thermodynamic fluctuation and with magnetic impurities.</li>
@@ -142,7 +142,7 @@ tags: [Page]
 
     <div>
         <div class="job-title">Visiting Researcher</div>
-        <div class="job-details"> Uppsala University, Uppsala, Sweden | 10.2015 – 01.2016 | </div>
+        <div class="job-details"> Uppsala University, <em>Uppsala, Sweden </em>  | 10.2015 – 01.2016 | </div>
         <div class="job-description">
             <ul>
                 <li>Nanoscale simulations of 2D materials using Quantum ESPRESSO package.</li>
@@ -154,7 +154,7 @@ tags: [Page]
 
     <div>
         <div class="job-title">Research Assistance</div>
-        <div class="job-details"> University of Tehran, Tehran, Iran | 05.2008 – 08.2009 | </div>
+        <div class="job-details"> University of Tehran, <em>Tehran, Iran</em> | 05.2008 – 08.2009 | </div>
         <div class="job-description">
             <ul>
                 <li>Image processing of interferometric patterns for thin film surface topography.</li>
