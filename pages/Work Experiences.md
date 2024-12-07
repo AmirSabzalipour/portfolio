@@ -21,10 +21,11 @@ tags: [Page]
     }
 
     .highlight {
+        max-width: 800px;
+        margin: 0 auto 20px;
         background-color: #f0f8ff;
         padding: 10px;
         border-left: 4px solid #007bff;
-        margin-bottom: 20px;
         font-weight: bold;
         color: #333;
         font-size: 1.1em;
@@ -32,14 +33,16 @@ tags: [Page]
 
     .job-title {
         font-weight: bold;
-        color: #444;
-        font-size: 1.2em;
+        color: #4169e1; /* Royal Blue */
+        font-size: 1em; /* Reduced font size */
+        margin-bottom: 5px;
     }
 
     .job-details {
-        font-size: 0.9rem;
-        color: #666;
-        margin-bottom: 5px;
+        font-size: 1rem; /* Increased font size for location and date */
+        font-weight: bold;
+        color: #333;
+        margin-bottom: 10px;
     }
 
     .job-description ul {
@@ -57,13 +60,15 @@ tags: [Page]
         border-top: 1px solid #ddd;
         margin: 20px 0;
     }
+   
 </style>
 
-<div class="experience-section">
-    <div class="highlight">
-        Semiconductor Modeling: Computational Approaches to Quantum Transport
-    </div>
+<!-- Highlighted Title OUTSIDE of experience-section -->
+<div class="highlight">
+    Semiconductor Modeling: Computational Approaches to Quantum Transport
+</div>
 
+<div class="experience-section">
     <div>
         <div class="job-title">Postdoctoral Researcher, <em>University of Antwerp</em></div>
         <div class="job-details">10.2021 – 06.2023 | Antwerp, Belgium</div>
@@ -126,5 +131,3 @@ tags: [Page]
         </div>
     </div>
 </div>
-
-
