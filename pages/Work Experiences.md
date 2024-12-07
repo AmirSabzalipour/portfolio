@@ -26,6 +26,7 @@ tags: [Page]
         color: #0492C2;;
         font-size: 1em;
         margin-left: 30px;
+        margin-bottom: 30px;
     }
 
     /* Add indentation for the content below the section title */
