@@ -103,7 +103,7 @@ tags: [Page]
 <div class="experience-section">
     <div>
         <div class="job-title">Postdoctoral Researcher </div>
-        <div class="job-details"> University of Antwerp, Antwerp, Belgium | 10.2021 – 06.2023 | </div>
+        <div class="job-details"> University of Antwerp, <em> Antwerp, Belgium </em> | 10.2021 – 06.2023 | </div>
         <div class="job-description">
             <ul>
                 <li>Python-based modeling and simulation of electrical resistivity at micron and nanometer scales.</li>
