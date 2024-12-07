@@ -60,12 +60,12 @@ tags: [Page]
 
     .job-description ul {
         margin: 0;
-        padding-left: 20px; /* Slight indentation for bullets */
+        padding-left: 30px; /* Slight indentation for bullets */
         list-style: circle;
     }
 
     .job-description ul li {
-        margin-bottom: 10px; /* Increase spacing between bullet points */
+        margin-bottom: 8px; /* Increase spacing between bullet points */
         font-size: 0.9em; /* Readable size */
         color: #555; /* Slightly lighter gray for description text */
     }
