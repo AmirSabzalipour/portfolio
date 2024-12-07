@@ -11,7 +11,7 @@ tags: [Page]
 
 <style>
     body {
-    background-color: #e1e5de; /* Light gray background color */
+    background-color: #f1f3ef /* Light gray background color */
     margin: 0; /* Remove default margins */
     padding: 0; /* Remove default padding */
 }
