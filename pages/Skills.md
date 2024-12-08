@@ -7,12 +7,11 @@ feature-img: "assets/img/pexels/computer.jpeg"
 position: 2
 tags: [Page]
 ---
-
 <style>
   body {
     margin: 0;
     padding: 10px;
-    background-color: #e0e3dc;
+    background-color: #f0f4ee;
     font-family: 'Avenir Next LT Pro', sans-serif;
   }
 
@@ -67,79 +66,6 @@ tags: [Page]
   <hr>
 
   <div class="skill-content">
-    <p class="skill-category">Data Science</p>
-    <div class="skill-details">
-      <ul>
-        <li>Exploratory data analysis, feature engineering, statistical analysis, visualization, pipeline development, post-processing, and reporting the results.</li>
-        <li>Libraries: NumPy, Pandas, Matplotlib, Spark, PyTorch, Seaborn, etc.</li>
-      </ul>
-    </div>
-  </div>
-
-  <hr>
-
-  <div class="skill-content">
-    <p class="skill-category">Machine Learning</p>
-    <div class="skill-details">
-      <ul>
-        <li>Feature engineering, model training, evaluation, deployment, and monitoring.</li>
-        <li>Models: Regression, decision trees, SVM, KNN, ensemble methods, neural networks.</li>
-      </ul>
-    </div>
-  </div>
-
-  <hr>
-
-  <div class="skill-content">
-    <p class="skill-category">NLP</p>
-    <div class="skill-details">
-      <ul>
-        <li>Text mining and preprocessing, sentiment analysis, topic modeling, classification.</li>
-        <li>Tools: Beautiful Soup, NLTK, Regex, spaCy, Gensim, Mallet, TF-IDF, Stylo, BookNLP.</li>
-      </ul>
-    </div>
-  </div>
-
-  <hr>
-
-  <div class="skill-content">
-    <p class="skill-category">Large Language Models</p>
-    <div class="skill-details">
-      <ul>
-        <li>Applying and fine-tuning large language models for text generation, summarization, question answering, prompt engineering, RAG, few-shot learning, and perplexity evaluation.</li>
-        <li>Tasks: Hyperparameter tuning, transfer learning, regularization, domain adaptation, quantization, metrics selection.</li>
-      </ul>
-    </div>
-  </div>
-
-  <hr>
-
-  <div class="skill-content">
-    <p class="skill-category">Optimization</p>
-    <div class="skill-details">
-      <ul>
-        <li>Optimizing linear and non-linear mathematical models to address business challenges.</li>
-        <li>Tasks: Cost minimization, profit maximization, resource allocation, operational improvement.</li>
-        <li>Tools: Pyomo modeling language with CPLEX, Gurobi as solvers.</li>
-      </ul>
-    </div>
-  </div>
-
-  <hr>
-
-  <div class="skill-content">
-    <p class="skill-category">HPC</p>
-    <div class="skill-details">
-      <ul>
-        <li>Advanced parallel computation using clusters.</li>
-        <li>Tasks: Atomic-scale material modeling with VASP and Quantum ESPRESSO on HPC.</li>
-      </ul>
-    </div>
-  </div>
-
-  <hr>
-
-  <div class="skill-content">
     <p class="skill-category">Numeric Computation</p>
     <div class="skill-details">
       <ul>
@@ -151,11 +77,93 @@ tags: [Page]
   <hr>
 
   <div class="skill-content">
-    <p class="skill-category">Mathematics</p>
+    <p class="skill-category">Data Science</p>
     <div class="skill-details">
       <ul>
-        <li>Fourier analysis, statistics, perturbation theory, topology, wave theory.</li>
+        <li>Exploratory data analysis, feature engineering, statistical analysis, visualization, pipeline development, post-processing, and reporting the results.</li>
+      </ul>
+    </div>
+  </div>
+
+  <hr>
+
+  <div class="skill-content">
+    <p class="skill-category">Machine Learning</p>
+    <div class="skill-details">
+      <ul>
+        <li>Performing feature engineering, model training, evaluation, deployment, and monitoring using supervised (e.g., SVM, Decision Trees), unsupervised, and deep learning techniques.</li>
+      </ul>
+    </div>
+  </div>
+
+  <hr>
+
+  <div class="skill-content">
+    <p class="skill-category">Large Language Models and NLP</p>
+    <div class="skill-details">
+      <ul>
+        <li>Skilled in text mining, fine-tuning large language models for text generation, summarization, question answering, prompt engineering, RAG, and few-shot learning.</li>
+      </ul>
+    </div>
+  </div>
+
+  <hr>
+
+  <div class="skill-content">
+    <p class="skill-category">Optimization</p>
+    <div class="skill-details">
+      <ul>
+        <li>Employing the Pyomo modeling language and solvers, such as CPLEX and Gurobi.</li>
+        <li>Specializing in mixed-integer linear, mixed-integer nonlinear, and linear programming.</li>
+      </ul>
+    </div>
+  </div>
+
+  <hr>
+
+  <div class="skill-content">
+    <p class="skill-category">HPC</p>
+    <div class="skill-details">
+      <ul>
+        <li>Using High-Performance Computing (HPC) systems to solve complex problems.</li>
+        <li>Simulating materials at the atomic scale using VASP and Quantum ESPRESSO.</li>
+      </ul>
+    </div>
+  </div>
+
+  <hr>
+
+  <div class="skill-content">
+    <p class="skill-category">Material Simulation</p>
+    <div class="skill-details">
+      <ul>
+        <li>Simulation of material properties based on atomic and electronic interactions, providing insights into behavior across scales—from quantum to macroscopic.</li>
+      </ul>
+    </div>
+  </div>
+
+  <hr>
+
+  <div class="skill-content">
+    <p class="skill-category">Material Characterization</p>
+    <div class="skill-details">
+      <ul>
+        <li>Developing nanocoatings using Physical Vapor Deposition (PVD).</li>
+        <li>Characterizing thin films through interferometric methods and Atomic Force Microscopy (AFM).</li>
+      </ul>
+    </div>
+  </div>
+
+  <hr>
+
+  <div class="skill-content">
+    <p class="skill-category">Mathematical Modeling</p>
+    <div class="skill-details">
+      <ul>
+        <li>Developing mathematical models to solve real-world problems using advanced equations, algorithms, and statistical methods.</li>
+        <li>Expertise in simplifying complex models, running simulations, and analyzing uncertainties to create practical solutions.</li>
       </ul>
     </div>
   </div>
 </div>
+
