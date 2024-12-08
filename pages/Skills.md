@@ -1,3 +1,13 @@
+--- 
+layout: page
+title : Education
+permalink: /Skills/
+subtitle: "" 
+feature-img: "assets/img/pexels/computer.jpeg"
+position: 2
+tags: [Page]
+---
+
 <style>
   body {
     margin: 0;
