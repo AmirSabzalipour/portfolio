@@ -7,8 +7,8 @@ feature-img: "assets/img/pexels/computer.jpeg"
 position: 5
 tags: [Page]
 ---
-
-
+<style>
+ 
   <style>
     body {
         background-color: #e0e3dc; /* Light gray background color */
