@@ -24,7 +24,7 @@ tags: [Page]
   .skill-category {
     font-weight: bold;
     color: rgba(46, 89, 132, 1); /* Royal Blue */
-    font-size: 1.2em;
+    font-size: .9em;
     margin-bottom: 8px;
   }
 
