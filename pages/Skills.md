@@ -1,10 +1,10 @@
 --- 
 layout: page
-title : Education
+title : Skills
 permalink: /Skills/
 subtitle: "" 
 feature-img: "assets/img/pexels/computer.jpeg"
-position: 2
+position: 3
 tags: [Page]
 ---
 <style>
