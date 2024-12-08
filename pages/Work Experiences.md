@@ -10,11 +10,22 @@ tags: [Page]
 ---
 
 <style>
+  ---
+layout: page
+title: Education
+permalink: /Education/
+subtitle: ""
+feature-img: "assets/img/pexels/computer.jpeg"
+position: 4
+tags: [Page]
+---
+ 
+<style>
     body {
-    background-color: #e0e3dc /* Light gray background color */
-    margin: 0; /* Remove default margins */
-    padding: 0; /* Remove default padding */
-}
+        background-color: #e0e3dc; /* Light gray background color */
+        margin: 0; /* Remove default margins */
+        padding: 0; /* Remove default padding */
+    }
 
     /* General container for better alignment and formatting */
     .experience-section {
@@ -49,7 +60,6 @@ tags: [Page]
         font-size: 1em; /* Slightly smaller but still noticeable */
         margin-left: 30px; /* Increase space below title */
         margin-bottom: 8px;
-        
     }
 
     /* Styling for job details (location and date) */
@@ -58,7 +68,7 @@ tags: [Page]
         font-weight: normal;
         color: black; /* Dark gray for better readability */
         margin-bottom: 25px; /* Add space below details */
-         margin-left: 30px;
+        margin-left: 30px;
     }
 
     /* Styling for job descriptions */
@@ -67,7 +77,6 @@ tags: [Page]
         margin-left: 50px;
     }
 
-  
     .job-description ul {
         margin: 0;
         padding-left: 20px; /* Slight indentation for bullets */
@@ -97,17 +106,16 @@ tags: [Page]
 
 <!-- Highlighted Title OUTSIDE of experience-section -->
 <div class="highlight">
-    Semiconductor Modeling: Computational Approaches to Quantum Transport
+    Master of Digital Text Analysis
 </div>
 
 <div class="experience-section">
     <div>
-        <div class="job-title">Postdoctoral Researcher </div>
-        <div class="job-details"> University of Antwerp, <em> Antwerp, Belgium </em> | 10.2021 – 06.2023 | </div>
+        <div class="job-title">Master of Digital Text Analysis</div>
+        <div class="job-details"> University of Antwerp, <em> Antwerp, Belgium </em> | 09.2023 – Present | </div>
         <div class="job-description">
             <ul>
-                <li>Python-based modeling and simulation of electrical resistivity at micron and nanometer scales.</li>
-                <li>Developing computational models to optimize energy loss in quantum topological materials, incorporating statistical, electrical, quantum, and topological features.</li>
+                <li>Applying Large Language Models, NLP, Machine Learning, and Data Science to perform computational tasks on diverse text content.</li>
             </ul>
         </div>
     </div>
@@ -115,14 +123,11 @@ tags: [Page]
     <hr>
 
     <div>
-        <div class="job-title">Doctoral Researcher</div>
-        <div class="job-details"> University of Antwerp, <em>Antwerp, Belgium </em> | 03.2017 – 10.2021 | </div>
+        <div class="job-title">Ph.D. in Physics</div>
+        <div class="job-details"> University of Antwerp, <em>Antwerp, Belgium</em> | 03.2017 – 10.2021 | </div>
         <div class="job-description">
             <ul>
-                <li>Mathematical modeling and computer simulation of disordered nanomaterials.</li>
-                <li>Atomic simulations of semiconductors using the VASP package on HPC clusters.</li>
-                <li>Numeric and analytical computations utilizing the Wolfram Language and Python.</li>
-                <li>Data visualization, analysis of observed behavior, and reporting findings to scientific journals.</li>
+                <li>Thesis title: <a href="https://repository.uantwerpen.be/docstore/d:irua:8696" style="color: lapislazuli;">"Charge Transport in Magnetic Topological Insulators"</a></li>
             </ul>
         </div>
     </div>
@@ -130,11 +135,11 @@ tags: [Page]
     <hr>
 
     <div>
-        <div class="job-title">Visiting Researcher</div>
-        <div class="job-details">Institute for Research in Fundamental Sciences, <em>Tehran, Iran </em> | 02.2016 – 02.2017 | </div>
+        <div class="job-title">M.Sc. in Physics</div>
+        <div class="job-details"> IASBS, <em> Tehran, Iran </em> | 09.2011 – 04.2014 | </div>
         <div class="job-description">
             <ul>
-                <li>Statistical and dynamical study of anomalous electrical properties of semiconductors under thermodynamic fluctuation and with magnetic impurities.</li>
+                <li>Studying quantum interaction effects on the anisotropic properties of materials.</li>
             </ul>
         </div>
     </div>
@@ -142,23 +147,11 @@ tags: [Page]
     <hr>
 
     <div>
-        <div class="job-title">Visiting Researcher</div>
-        <div class="job-details"> Uppsala University, <em>Uppsala, Sweden </em>  | 10.2015 – 01.2016 | </div>
+        <div class="job-title">B.Sc. in Physics</div>
+        <div class="job-details"> University of Tehran, <em> Tehran, Iran </em> | 09.2003 – 04.2008 | </div>
         <div class="job-description">
             <ul>
-                <li>Nanoscale simulations of 2D materials using Quantum ESPRESSO package.</li>
-            </ul>
-        </div>
-    </div>
-
-    <hr>
-
-    <div>
-        <div class="job-title">Research Assistance</div>
-        <div class="job-details"> University of Tehran, <em>Tehran, Iran</em> | 05.2008 – 08.2009 | </div>
-        <div class="job-description">
-            <ul>
-                <li>Image processing of interferometric patterns for thin film surface topography.</li>
+                <li>Thin film fabrication by Physical Vapor Deposition (PVD) techniques.</li>
             </ul>
         </div>
     </div>
