@@ -19,6 +19,7 @@ tags: [Page]
     background-size: cover;
   }
 
+    
   .education-section {
     max-width: 900px;
     margin: 0 auto; /* Center align the section */
@@ -27,6 +28,15 @@ tags: [Page]
     border-bottom: none; /* Removes the border */
     box-shadow: none;   
   }
+    div.education-section {
+    border-bottom: none !important; /* Ensures removal of border */
+    box-shadow: none !important;   /* Ensures removal of shadows */
+}
+
+div.education-section::after,
+div.education-section::before {
+    content: none !important; /* Removes pseudo-elements */
+}
 
   .course-title {
     font-weight: bold;
@@ -62,7 +72,6 @@ tags: [Page]
     line-height: 1.2;
   }
 
-  /* Divider styling */
   hr {
     border: 0;
     border-top: 1px solid #ddd;
