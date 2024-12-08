@@ -11,7 +11,7 @@ tags: [Page]
  
   <style>
     body {
-        background-color: #e0e3dc; /* Light gray background color */
+        background-color: white; /* Light gray background color */
         margin: 0; /* Remove default margins */
         padding: 0; /* Remove default padding */
     }
@@ -32,7 +32,7 @@ tags: [Page]
         font-weight: normal;
         color: rgba(150,170,150,1);
         font-size: 1.2em;
-        margin-left: 30px;
+        margin-left: 10px;
         margin-top: 40px;
         margin-bottom: 30px;
     }
@@ -57,7 +57,7 @@ tags: [Page]
         font-weight: normal;
         color: black; /* Dark gray for better readability */
         margin-bottom: 25px; /* Add space below details */
-        margin-left: 30px;
+        margin-left: 10px;
     }
 
     /* Styling for course descriptions */
