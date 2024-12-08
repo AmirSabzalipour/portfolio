@@ -10,7 +10,7 @@ tags: [Page]
   body {
     margin: 0;
     padding: 10px;
-    background-color: #e0e3dc;
+    background-color:#e0e3dc;
     font-family: 'Avenir Next LT Pro', sans-serif;
   }
 
