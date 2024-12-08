@@ -35,11 +35,11 @@ tags: [Page]
   }
 
   .course-details {
-    font-size: 1em; /* Clear and readable size */
+    font-size: .8em; /* Clear and readable size */
     font-weight: normal;
     color: rgba(250, 144, 98, 1); /* One color for the date */
     margin-left: 30px;
-    margin-bottom: 25px; /* Add space below details */
+    margin-bottom: 15px; /* Add space below details */
   }
 
   .course-description {
