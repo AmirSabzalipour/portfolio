@@ -29,7 +29,7 @@ tags: [Page]
   .course-title {
     font-weight: bold;
     color: rgba(46, 89, 132, 1); /* Royal Blue */
-    font-size: 1.2em;
+    font-size: 1em;
     margin-left: 30px; /* Increase space below title */
     margin-bottom: 8px;
   }
