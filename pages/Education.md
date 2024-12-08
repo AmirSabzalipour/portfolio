@@ -24,6 +24,8 @@ tags: [Page]
     margin: 0 auto; /* Center align the section */
     padding: 10px 0; /* Add vertical spacing */
     font-family: 'Avenir Next LT Pro', sans-serif;
+     border-bottom: none !important; /* Removes the border */
+    box-shadow: none !important;   
   }
 
   .course-title {
