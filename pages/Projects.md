@@ -101,7 +101,7 @@ tags: [Page]
 <section class="education-section">
     <div>
         <div class="course-title">Sentiment Analysis using Machine Learning Algorithms</div>
-        <div class="course-details"> | 10.2023 – Present | </div>
+        <div class="course-details"> </div>
         <div class="course-description">
             <ul>
                 <li>Analyzed text data including Mobile Apps, Twitter, Yelp, and product Reviews.</li>
@@ -115,7 +115,7 @@ tags: [Page]
 
     <div>
         <div class="course-title">Automatic Detection of Machine-Generated Text</div>
-        <div class="course-details"> | 09.2022 – 03.2023 | </div>
+        <div class="course-details"> </div>
         <div class="course-description">
             <ul>
                 <li>Analyzed web-scraped data (Reviews, Poems, Tweets, News) in English and Dutch.</li>
@@ -129,7 +129,7 @@ tags: [Page]
 
     <div>
         <div class="course-title">Developing an Age-Appropriate Rating System for Podcasts</div>
-        <div class="course-details"> | 06.2021 – 12.2021 | </div>
+        <div class="course-details"></div>
         <div class="course-description">
             <ul>
                 <li>Developed a topic modeling system for podcasts, integrating BERTopic and LMMs.</li>
@@ -143,7 +143,7 @@ tags: [Page]
 
     <div>
         <div class="course-title">Evaluating GPT Model Performance Using Perplexity</div>
-        <div class="course-details"> | 01.2021 – 05.2021 | </div>
+        <div class="course-details"></div>
         <div class="course-description">
             <ul>
                 <li>Used a GPT model with GPT2Tokenizer, trained on Christopher Marlowe’s books.</li>
