@@ -48,16 +48,16 @@ tags: [Page]
         color: rgba(46, 89, 132,1); /* Royal Blue */
         font-size: 1em; /* Slightly smaller but still noticeable */
         margin-left: 0px; /* Increase space below title */
-        margin-bottom: 8px;
+        margin-bottom: 5px;
     }
 
     /* Styling for course details (dates) */
     .course-details {
-        font-size: .8em; /* Clear and noticeable */
+        font-size: .9em; /* Clear and noticeable */
         font-weight: normal;
         color: black; /* Dark gray for better readability */
         margin-bottom: 25px; /* Add space below details */
-        margin-left: 10px;
+        margin-left: 5px;
     }
 
     /* Styling for course descriptions */
