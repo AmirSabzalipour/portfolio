@@ -50,13 +50,13 @@ div.education-section::before {
     font-size: .9em; /* Clear and readable size */
     font-weight: normal;
     color: rgba(250, 144, 98, 1); /* One color for the date */
-    margin-left: 5px;
+    margin-left: 0px;
     margin-bottom: 20px; /* Add space below details */
   }
 
   .course-description {
     margin-top: 15px; /* Space between title and description */
-    margin-left: 5px;
+    margin-left: 0px;
   }
 
   .course-description ul {
