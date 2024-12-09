@@ -30,7 +30,7 @@ tags: [Page]
 
   .skill-details {
     margin-top: 15px;
-    margin-left: 5px;
+    margin-left: 0px;
   }
 
   .skill-details ul {
