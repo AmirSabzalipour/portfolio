@@ -102,7 +102,7 @@ tags: [Page]
 <div class="experience-section">
     <div>
         <div class="job-title">Postdoctoral Researcher </div>
-        <div class="job-details"> University of Antwerp, <em> Antwerp, Belgium </em> | 10.2021 – 06.2023 | </div>
+        <div class="job-details"> University of Antwerp,  Belgium | 10.2021 – 06.2023 | </div>
         <div class="job-description">
             <ul>
                 <li>Python-based modeling and simulation of electrical resistivity at micron and nanometer scales.</li>
@@ -115,7 +115,7 @@ tags: [Page]
 
     <div>
         <div class="job-title">Doctoral Researcher</div>
-        <div class="job-details"> University of Antwerp, <em>Antwerp, Belgium </em> | 03.2017 – 10.2021 | </div>
+        <div class="job-details"> University of Antwerp, Belgium | 03.2017 – 10.2021 | </div>
         <div class="job-description">
             <ul>
                 <li>Mathematical modeling and computer simulation of disordered nanomaterials.</li>
@@ -142,7 +142,7 @@ tags: [Page]
 
     <div>
         <div class="job-title">Visiting Researcher</div>
-        <div class="job-details"> Uppsala University, <em>Uppsala, Sweden </em>  | 10.2015 – 01.2016 | </div>
+        <div class="job-details"> Uppsala University, Sweden | 10.2015 – 01.2016 | </div>
         <div class="job-description">
             <ul>
                 <li>Nanoscale simulations of 2D materials using Quantum ESPRESSO package.</li>
@@ -154,7 +154,7 @@ tags: [Page]
 
     <div>
         <div class="job-title">Research Assistance</div>
-        <div class="job-details"> University of Tehran, <em>Tehran, Iran</em> | 05.2008 – 08.2009 | </div>
+        <div class="job-details"> University of Tehran, Iran| 05.2008 – 08.2009 | </div>
         <div class="job-description">
             <ul>
                 <li>Image processing of interferometric patterns for thin film surface topography.</li>
