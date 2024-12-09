@@ -47,7 +47,7 @@ div.education-section::before {
   }
 
   .course-details {
-    font-size: .8em; /* Clear and readable size */
+    font-size: .9em; /* Clear and readable size */
     font-weight: normal;
     color: rgba(250, 144, 98, 1); /* One color for the date */
     margin-left: 5px;
@@ -56,7 +56,7 @@ div.education-section::before {
 
   .course-description {
     margin-top: 15px; /* Space between title and description */
-    margin-left: 10px;
+    margin-left: 5px;
   }
 
   .course-description ul {
@@ -69,7 +69,7 @@ div.education-section::before {
     margin-bottom: 8px; /* Increase spacing between bullet points */
     font-size: 0.9em; /* Readable size */
     color: #555; /* Slightly lighter gray for description text */
-    line-height: 1.2;
+    line-height: 1.4;
   }
 
   hr {
