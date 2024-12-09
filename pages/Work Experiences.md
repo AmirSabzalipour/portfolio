@@ -83,7 +83,7 @@ tags: [Page]
         margin-bottom: 8px; /* Increase spacing between bullet points */
         font-size: 0.9em; /* Readable size */
         color: #555; /* Slightly lighter gray for description text */
-        line-height: 1.2; 
+        line-height: 1.4; 
     }
 
     /* Divider styling */
