@@ -47,7 +47,7 @@ tags: [Page]
         font-weight: bold;
         color: rgba(46, 89, 132,1); /* Royal Blue */
         font-size: 1em; /* Slightly smaller but still noticeable */
-        margin-left: 30px; /* Increase space below title */
+        margin-left: 0px; /* Increase space below title */
         margin-bottom: 8px;
     }
 
