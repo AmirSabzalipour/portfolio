@@ -47,7 +47,7 @@ tags: [Page]
         font-weight: bold;
         color: rgba(46, 89, 132,1); /* Royal Blue */
         font-size: 1em; /* Slightly smaller but still noticeable */
-        margin-left: 0px; /* Increase space below title */
+        margin-left: 10px; /* Increase space below title */
         margin-bottom: 5px;
     }
 
@@ -57,7 +57,7 @@ tags: [Page]
         font-weight: normal;
         color: black; /* Dark gray for better readability */
         margin-bottom: 25px; /* Add space below details */
-        margin-left: 5px;
+        margin-left: 15px;
     }
 
     /* Styling for course descriptions */
