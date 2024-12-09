@@ -46,7 +46,7 @@ tags: [Page]
         font-weight: bold;
         color: rgba(46, 89, 132,1); /* Royal Blue */
         font-size: 1em; /* Slightly smaller but still noticeable */
-        margin-left: 30px; /* Increase space below title */
+        margin-left: 0px; /* Increase space below title */
         margin-bottom: 8px;
         
     }
@@ -57,13 +57,13 @@ tags: [Page]
         font-weight: normal;
         color: black; /* Dark gray for better readability */
         margin-bottom: 25px; /* Add space below details */
-         margin-left: 30px;
+         margin-left: 5px;
     }
 
     /* Styling for job descriptions */
     .job-description {
         margin-top: 15px; /* Space between details and description */
-        margin-left: 50px;
+        margin-left: 10px;
     }
 
   
