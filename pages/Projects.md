@@ -63,12 +63,12 @@ tags: [Page]
     /* Styling for course descriptions */
     .course-description {
         margin-top: 15px; /* Space between details and description */
-        margin-left: 50px;
+        margin-left: 10px;
     }
 
     .course-description ul {
         margin: 0;
-        padding-left: 20px; /* Slight indentation for bullets */
+        padding-left: 10px; /* Slight indentation for bullets */
         list-style-type: circle; /* Use circle bullets */
     }
 
