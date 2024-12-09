@@ -30,7 +30,7 @@ tags: [Page]
 
   .skill-details {
     margin-top: 15px;
-    margin-left: 15px;
+    margin-left: 5px;
   }
 
   .skill-details ul {
@@ -43,7 +43,7 @@ tags: [Page]
     margin-bottom: 8px;
     font-size: 0.9em;
     color: #555; /* Slightly lighter gray for details */
-    line-height: 1.2;
+    line-height: 1.5;
   }
 
   hr {
