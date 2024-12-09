@@ -42,21 +42,21 @@ div.education-section::before {
     font-weight: bold;
     color: rgba(46, 89, 132, 1); /* Royal Blue */
     font-size: 1em;
-    margin-left: 30px; /* Increase space below title */
-    margin-bottom: 8px;
+    margin-left: 0px; /* Increase space below title */
+    margin-bottom: 6px;
   }
 
   .course-details {
     font-size: .8em; /* Clear and readable size */
     font-weight: normal;
     color: rgba(250, 144, 98, 1); /* One color for the date */
-    margin-left: 30px;
-    margin-bottom: 15px; /* Add space below details */
+    margin-left: 5px;
+    margin-bottom: 20px; /* Add space below details */
   }
 
   .course-description {
     margin-top: 15px; /* Space between title and description */
-    margin-left: 50px;
+    margin-left: 10px;
   }
 
   .course-description ul {
