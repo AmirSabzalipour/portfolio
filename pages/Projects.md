@@ -5,7 +5,6 @@ permalink: /Projects/
 subtitle: "" 
 feature-img: "assets/img/pexels/computer.jpeg"
 position: 5
-tags: [Page]
 ---
 <style>
  
