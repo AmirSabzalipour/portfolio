@@ -41,7 +41,7 @@ position: 3
   .skill-details ul li {
     margin-bottom: 8px;
     font-size: 0.9em;
-    color: black; /* Slightly lighter gray for details */
+    color:  #555; /* Slightly lighter gray for details */
     line-height: 1.5;
   }
 
