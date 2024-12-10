@@ -5,7 +5,6 @@ permalink: /Skills/
 subtitle: "" 
 feature-img: "assets/img/pexels/computer.jpeg"
 position: 3
-tags: [Page]
 ---
 <style>
   body {
