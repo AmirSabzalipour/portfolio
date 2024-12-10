@@ -6,7 +6,6 @@ feature-img: "assets/img/pexels/travel.jpeg"
 permalink: /Work Experiences/
 excluded: true
 position: 3
-tags: [Page]
 ---
 <style>
     body {
