@@ -48,7 +48,7 @@ div.education-section::before {
   .course-details {
     font-size: .9em; /* Clear and readable size */
     font-weight: normal;
-    color: rgba(250, 144, 98, 1); /* One color for the date */
+    color: rgba(200, 100, 65, 1); /* One color for the date */
     margin-left: 0px;
     margin-bottom: 20px; /* Add space below details */
   }
@@ -91,7 +91,7 @@ div.education-section::before {
     </div>
   </div>
 
-  <hr>
+  
 
   <div class="education-content">
     <p class="course-title">
@@ -105,7 +105,7 @@ div.education-section::before {
     </div>
   </div>
 
-  <hr>
+  
 
   <div class="education-content">
     <p class="course-title">
@@ -119,7 +119,7 @@ div.education-section::before {
     </div>
   </div>
 
-  <hr>
+  
 
   <div class="education-content">
     <p class="course-title">
