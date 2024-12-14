@@ -32,7 +32,7 @@ position: 3
   display: inline-block;
   width: 15px; /* Adjust size */
   height: 4px; /* Adjust size */
- background-color: gray; /* Light Green Blue (Aquamarine) */
+ background-color: #FAFAFA; /* Light Green Blue (Aquamarine) */
   margin-right: 4px; /* Space between square and text */
   vertical-align: middle; /* Align square with text */
 }
