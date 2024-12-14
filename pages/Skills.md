@@ -30,10 +30,10 @@ position: 3
   .skill-category::before {
   content: "";
   display: inline-block;
-  width: 10px; /* Adjust size */
-  height: 10px; /* Adjust size */
+  width: 13px; /* Adjust size */
+  height: 13px; /* Adjust size */
   background-color: rgba(46, 89, 132, 1); /* Royal Blue */
-  margin-right: 8px; /* Space between square and text */
+  margin-right: 4px; /* Space between square and text */
   vertical-align: middle; /* Align square with text */
 }
 
@@ -58,8 +58,8 @@ position: 3
 
   hr {
     border: 0;
-    border-top: .5px solid #eee;
-    margin: 40px 0;
+    border-top: .6px solid #eee;
+    margin: 20px 0;
   }
 </style>
 
