@@ -27,18 +27,6 @@ position: 3
     margin-bottom: 8px;
   }
   
-  .skill-category::before {
-  content: "";
-  display: inline-block;
-  width: 6px; /* Adjust size */
-  height: 6px; /* Adjust size */
- background-color:#D4D4D4
-; /* Light Green Blue (Aquamarine) */
-  margin-right: 4px; /* Space between square and text */
-  vertical-align: middle; /* Align square with text */
-}
-
-
   .skill-details {
     margin-top: 15px;
     margin-left: 0px;
