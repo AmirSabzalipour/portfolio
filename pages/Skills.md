@@ -26,6 +26,17 @@ position: 3
     font-size: .98em;
     margin-bottom: 8px;
   }
+  
+  .skill-category::before {
+  content: "";
+  display: inline-block;
+  width: 10px; /* Adjust size */
+  height: 10px; /* Adjust size */
+  background-color: rgba(46, 89, 132, 1); /* Royal Blue */
+  margin-right: 8px; /* Space between square and text */
+  vertical-align: middle; /* Align square with text */
+}
+
 
   .skill-details {
     margin-top: 15px;
