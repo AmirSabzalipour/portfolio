@@ -23,7 +23,7 @@ position: 3
   .skill-category {
     font-weight: bold;
     color: rgba(46, 89, 132, 1); /* Royal Blue */
-    font-size: .9em;
+    font-size: .98em;
     margin-bottom: 8px;
   }
 
@@ -40,15 +40,15 @@ position: 3
 
   .skill-details ul li {
     margin-bottom: 8px;
-    font-size: 0.9em;
+    font-size: 0.92em;
     color:  #555; /* Slightly lighter gray for details */
     line-height: 1.5;
   }
 
   hr {
     border: 0;
-    border-top: 1px solid #ddd;
-    margin: 30px 0;
+    border-top: .5px solid #eee;
+    margin: 40px 0;
   }
 </style>
 
