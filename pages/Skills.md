@@ -30,9 +30,9 @@ position: 3
   .skill-category::before {
   content: "";
   display: inline-block;
-  width: 13px; /* Adjust size */
-  height: 13px; /* Adjust size */
-  background-color: rgba(46, 89, 132, 1); /* Royal Blue */
+  width: 10px; /* Adjust size */
+  height: 10px; /* Adjust size */
+ background-color: rgba(173, 216, 230, 1);
   margin-right: 4px; /* Space between square and text */
   vertical-align: middle; /* Align square with text */
 }
