@@ -30,9 +30,9 @@ position: 3
   .skill-category::before {
   content: "";
   display: inline-block;
-  width: 15px; /* Adjust size */
-  height: 4px; /* Adjust size */
- background-color:#ECECEC
+  width: 6px; /* Adjust size */
+  height: 6px; /* Adjust size */
+ background-color:#D4D4D4
 ; /* Light Green Blue (Aquamarine) */
   margin-right: 4px; /* Space between square and text */
   vertical-align: middle; /* Align square with text */
