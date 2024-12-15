@@ -54,7 +54,7 @@ div.education-section::before {
   }
 
   .course-description {
-    margin-top: 15px; /* Space between title and description */
+    margin-top: 10px; /* Space between title and description */
     margin-left: 0px;
   }
 
@@ -73,8 +73,8 @@ div.education-section::before {
 
  hr {
     border: 0;
-    border-top: .6px solid #eee;
-    margin: 20px 0;
+    border-top: .4px solid #eee;
+    margin: 30px 0;
   }
     
 </style>
