@@ -10,7 +10,7 @@ position: 3
   body {
     margin: 0;
     padding: 10px;
-    background-color: #f0f4ee;
+    background-color: white;
     font-family: 'Avenir Next LT Pro', sans-serif;
   }
 
