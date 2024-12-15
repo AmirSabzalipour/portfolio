@@ -71,11 +71,12 @@ div.education-section::before {
     line-height: 1.4;
   }
 
-  hr {
+ hr {
     border: 0;
-    border-top: .4px solid #eee;
-    margin: 40px 0; /* Add more space between sections */
+    border-top: .6px solid #eee;
+    margin: 20px 0;
   }
+    
 </style>
 
 <div class="education-section">
