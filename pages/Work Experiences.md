@@ -86,11 +86,11 @@ position: 3
     }
 
     /* Divider styling */
-    hr {
-        border: 0;
-        border-top: 1px solid #ddd;
-        margin: 30px 0; /* Add more space between sections */
-    }
+  hr {
+    border: 0;
+    border-top: .6px solid #eee;
+    margin: 20px 0;
+  }
 </style>
 
 <!-- Highlighted Title OUTSIDE of experience-section -->
