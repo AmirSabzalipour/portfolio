@@ -42,7 +42,7 @@ div.education-section::before {
     color: rgba(46, 89, 132, 1); /* Royal Blue */
     font-size: .98em;
     margin-left: 0px; /* Increase space below title */
-    margin-bottom: 6px;
+    margin-bottom: 4px;
   }
 
   .course-details {
@@ -50,7 +50,7 @@ div.education-section::before {
     font-weight: normal;
     color: rgba(200, 100, 65, 1); /* One color for the date */
     margin-left: 0px;
-    margin-bottom: 20px; /* Add space below details */
+    margin-bottom: 15px; /* Add space below details */
   }
 
   .course-description {
@@ -74,7 +74,7 @@ div.education-section::before {
  hr {
     border: 0;
     border-top: .4px solid #eee;
-    margin: 30px 0;
+    margin: 40px 0;
   }
     
 </style>
