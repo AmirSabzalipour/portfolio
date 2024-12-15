@@ -16,6 +16,7 @@ position: 3
 
   .skills-section {
     max-width: 900px;
+    margin-top: 30px;
     margin: 0 auto;
     padding: 10px 0;
   }
@@ -63,7 +64,7 @@ position: 3
     </div>
   </div>
 
-  <hr>
+  
 
   <div class="skill-content">
     <p class="skill-category">Numeric Computation</p>
@@ -74,7 +75,7 @@ position: 3
     </div>
   </div>
 
-  <hr>
+  
 
   <div class="skill-content">
     <p class="skill-category">Data Science</p>
@@ -85,7 +86,7 @@ position: 3
     </div>
   </div>
 
-  <hr>
+  
 
   <div class="skill-content">
     <p class="skill-category">Machine Learning</p>
@@ -96,7 +97,7 @@ position: 3
     </div>
   </div>
 
-  <hr>
+  
 
   <div class="skill-content">
     <p class="skill-category">Large Language Models and NLP</p>
@@ -107,7 +108,7 @@ position: 3
     </div>
   </div>
 
-  <hr>
+  
 
   <div class="skill-content">
     <p class="skill-category">Optimization</p>
@@ -119,7 +120,7 @@ position: 3
     </div>
   </div>
 
-  <hr>
+  
 
   <div class="skill-content">
     <p class="skill-category">HPC</p>
@@ -131,7 +132,7 @@ position: 3
     </div>
   </div>
 
-  <hr>
+  
 
   <div class="skill-content">
     <p class="skill-category">Material Simulation</p>
@@ -142,7 +143,7 @@ position: 3
     </div>
   </div>
 
-  <hr>
+  
 
   <div class="skill-content">
     <p class="skill-category">Material Characterization</p>
@@ -154,7 +155,7 @@ position: 3
     </div>
   </div>
 
-  <hr>
+  
 
   <div class="skill-content">
     <p class="skill-category">Mathematical Modeling</p>
