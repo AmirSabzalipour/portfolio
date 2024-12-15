@@ -86,7 +86,7 @@ position: 3
     }
 
     /* Divider styling */
-  hr {
+ hr {
     border: 0;
     border-top: .6px solid #eee;
     margin: 20px 0;
