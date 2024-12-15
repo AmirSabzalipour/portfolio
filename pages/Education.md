@@ -92,7 +92,6 @@ div.education-section::before {
     </div>
   </div>
 
-    <hr>
 
   <div class="education-content">
     <p class="course-title">
@@ -105,7 +104,6 @@ div.education-section::before {
       </ul>
     </div>
   </div>
-  <hr>
   
 
   <div class="education-content">
@@ -120,7 +118,6 @@ div.education-section::before {
     </div>
   </div>
 
-    <hr>
 
   <div class="education-content">
     <p class="course-title">
