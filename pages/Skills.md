@@ -15,7 +15,7 @@ position: 3
   }
 
   .skills-section {
-    max-width: 900px;
+    max-width: 1200px;
     margin-top: 30px;
     margin: 0 auto;
     padding: 10px 0;
